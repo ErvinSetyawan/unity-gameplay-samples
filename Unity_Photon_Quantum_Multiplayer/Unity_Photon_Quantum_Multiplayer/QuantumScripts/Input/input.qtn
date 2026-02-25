@@ -1,0 +1,6 @@
+﻿input
+{
+    button Jump;
+    short DirectionX;
+    short DirectionY;
+}
