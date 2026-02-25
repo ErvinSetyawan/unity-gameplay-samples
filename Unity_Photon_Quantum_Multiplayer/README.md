@@ -34,8 +34,13 @@ The project includes matchmaking, account synchronization, and mobile input hand
 
 ## Preview
 
+### PlayFab Login
+
+![Quantum PlayFab Login](Screenshots/quantum_playfablogin.png)
+
 ### Matchmaking & Lobby
 
+![Quantum Matchmaking](Screenshots/quantum_lobby.png)
 ![Quantum Matchmaking](Screenshots/quantum_matchmaking.jpeg)
 
 ### In-Game Deterministic Movement
