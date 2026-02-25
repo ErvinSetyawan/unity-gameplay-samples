@@ -6,7 +6,7 @@ The purpose of these samples is to demonstrate gameplay logic, modular architect
 
 ---
 
-## Included Projects
+## Included Samples
 
 ### 1. Unity 2022.3.21f1 – Photon Quantum Multiplayer Prototype  
 Engine Version: Unity 2022.3.21f1 + Photon Quantum 2.1.7
