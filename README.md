@@ -20,10 +20,12 @@ Repository Folder: /Unity_Character_Customization
 
 ## Technical Focus
 
-- Gameplay system implementation
-- Deterministic ECS-based multiplayer movement
-- Modular architecture
-- Runtime asset manipulation and modular accessory switching  
+- Deterministic ECS-based multiplayer simulation  
+- Matchmaking & Quick Play system  
+- PlayFab integration (account & avatar sync)  
+- Input synchronization (movement & jump)  
+- Separation between simulation and presentation layer  
+- Modular gameplay system design
 
 ---
 
