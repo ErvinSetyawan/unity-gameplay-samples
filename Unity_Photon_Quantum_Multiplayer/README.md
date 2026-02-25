@@ -36,7 +36,7 @@ The project includes matchmaking, account synchronization, and mobile input hand
 
 ### Matchmaking & Lobby
 
-![Quantum Matchmaking](Screenshots/quantum_matchmaking.png)
+![Quantum Matchmaking](Screenshots/quantum_matchmaking.jpeg)
 
 ### In-Game Deterministic Movement
 
